@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <item>
+      <title>NDTV News</title>
+      <link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8</link>
+      <description>NDTV India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f21fd</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8">
+        <media:description>NDTV India: Hindi News, Today's Latest News in Hindi, News.</media:description>
+        <media:keywords>hindinews</media:keywords>
+        <media:thumbnail url="http://www.freepressjournal.in/wp-content/uploads/2016/11/NDTV-1.png" />
+        <media:title>NDTV</media:title>
+      </media:content>
+    </item>
+	
+	    <item>
+      <title>Awaaz News</title>
+      <link>http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_3_av-b.m3u8</link>
+      <description>Awaaz India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_3_av-b.m3u8">
+        <media:description>Awaaz India: Hindi News, Today's Latest News in Hindi, News.</media:description>
+        <media:keywords>hindinews</media:keywords>
+        <media:thumbnail url="https://www.si.umich.edu/sites/default/files/styles/landing_main/public/istock_news_image.jpg" />
+        <media:title>Live News</media:title>
+      </media:content>
+       </item>
+	
+    <item>
+      <title>ABP News</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/6c9d0951d6d74229afe4adf972b278dd/bc227724e2854c6b93ad48d1feb39c16/roku_ep_115_segment_5_paula_nw_050515.mp4</link>
+      <description>Live ABP News</description>
+      <pubDate>Thu, 21 May 2015 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="59" fileSize="9523612" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8">
+        <media:description>ABP Live Hindi News</media:description>
+        <media:keywords>hindinews</media:keywords>
+        <media:thumbnail url="http://picons.xn--karri-fsa.de/srp-full.800x450-760x410.light.on.transparent_2016-06-03--12-46-43/logos/abpnews.png" />
+        <media:title>Let's Get Cookin'</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>National Voice News</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5686748268874a57a4ba3debda1619dd/75ad4598ef4a4e5c950e26d80464abb4/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>The National Voice, Hindi language channel aims to cut through the chaos and offers news to the upwardly mobile Indian middle class in an interesting, engaging and interactive manner.</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="hls" width="1280" isDefault="true" url="http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8">
+        <media:description>ConTv is a channel that promises to let you "immerse yourself in the Comic Con experience." The channel offers Sci-fi and monster movies, cult classics, martial arts, hit television series from years past, and more.</media:description>
+        <media:keywords>hindinews, news</media:keywords>
+        <media:thumbnail url="https://2.bp.blogspot.com/-WuKXCayrHQw/WSgd58lCD6I/AAAAAAAAKoM/mebzz_KO70MTzNcYb89LmwH8CzQAdXzVACLcB/s1600/0669d948926367eeaa6250271090ab51.jpg" />
+        <media:title>Fanboys Unite</media:title>
+      </media:content>
+    </item> 
+	
+	<item>
+      <title>News 18</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5686748268874a57a4ba3debda1619dd/75ad4598ef4a4e5c950e26d80464abb4/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>News 18 Channel </description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1news5</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="hls" width="1280" isDefault="true" url="http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8">
+        <media:description>News 18 Channel.</media:description>
+        <media:keywords>hindinews</media:keywords>
+        <media:thumbnail url="https://4.bp.blogspot.com/-yRx3vaQgNoM/WSYWtm5DoBI/AAAAAAAAKnA/kP1jTUPm1JQjZ8AHcvrgDGEpllscBDqVQCLcB/s1600/neews18.jpg" />
+        <media:title>News 18</media:title>
+      </media:content>
+    </item>
+  
+	<item>
+      <title>VTV Gujarati News</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/37d290e03d894135b07c5e514cbad72d/dfd02160a5374c39967c105a8cfff3a1/roku_ep_115_segment_3_ufc_nw_051815.mp4</link>
+      <description>Gujarat News Broadcasters pvt. Ltd. is 24 hours regional news channel in Gujarat.</description>
+      <pubDate>Thu, 28 May 2015 17:01:28 GMT</pubDate>
+      <guid isPermaLink="false">37d290e03d894135b07c5e514cbad72d</guid>
+      <media:content channels="2" bitrate="1328.0" duration="52" fileSize="8421940" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://139.162.45.160:1935/trans/inewsup.stream_aac/playlist.m3u8">
+        <media:description>UFCTV gives you Live and On-Demand access to UFC events and classic fights. UFC (Ultimate Fighting Championship), is the world’s leading mixed martial arts sports association.</media:description>
+        <media:keywords>nregionalnews</media:keywords>
+        <media:thumbnail url="https://2.bp.blogspot.com/-teErfgujv9A/WSYd-FTAc5I/AAAAAAAAKnY/evcTAxkZ_243KOZXouj8sY-MuVKZuCBUgCLcB/s1600/gujju.jpg" />
+        <media:title>VTV Gujarati News</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Uttarakhand News</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5686748268874a57a4ba3debda1619dd/75ad4598ef4a4e5c950e26d80464abb4/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>North Indian State Uttarakhand Regional News</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debdannews1</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="hls" width="1280" isDefault="true" url="http://etv_up_hls-lh.akamaihd.net/i/etv_up_hls_1@175735/index_3_av-b.m3u8">
+        <media:description>North Indian State Uttarakhand Regional News</media:description>
+        <media:keywords>nregionalnews</media:keywords>
+        <media:thumbnail url="https://3.bp.blogspot.com/-q235Jnav1dk/WSYaSeu9GMI/AAAAAAAAKnM/2-sflXiGehQaQ1JqkwByDWng2XlbWdxpACLcB/s1600/utra.png" />
+        <media:title>Uttarakhand News</media:title>
+      </media:content>
+    </item>
+	
+	<item>
+      <title>Peace TV Urdu</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/2c4e8ea1ad2f4a8d9d244f5dd4cc47b6/d6217d5a03e64cef9e6bf889fda8d41c/ep-123-seq-4-nick-alt_081215.mp4</link>
+      <description>Peace TV Urdu</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:45 GMT</pubDate>
+      <guid isPermaLink="false">2c4e8ea1ad2f4a8d9d244f5dd4cc47b6</guid>
+      <media:content channels="2" bitrate="1328.0" duration="52" fileSize="8449732" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://peace.ashttp6.visionip.tv/live/b2b-peace_asia-live-25f-4x3_3/playlist.m3u8">
+        <media:description>Peace TV Urdu</media:description>
+        <media:keywords>religious</media:keywords>
+        <media:thumbnail url="https://1.bp.blogspot.com/-aVwL7zVEqHg/WSYpGdNwF9I/AAAAAAAAKno/iMzSvq0YwXkQPQ7zqNiDTggWs8U1dFHkwCLcB/s1600/Peace-TV.png" />
+        <media:title>Peace TV Urdu</media:title>
+      </media:content>
+    </item> 
+
+		<item>
+      <title>Teentaal</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/2c4e8ea1ad2f4a8d9d244f5dd4cc47b6/d6217d5a03e64cef9e6bf889fda8d41c/ep-123-seq-4-nick-alt_081215.mp4</link>
+      <description>Radio Teentaal</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:45 GMT</pubDate>
+      <guid isPermaLink="false">2c4e8ea1ad2f4a8d9d244f5ddradio1</guid>
+      <media:content channels="2" bitrate="1328.0" duration="52" fileSize="8449732" framerate="23.976" height="720" type="m3u" width="1280" isDefault="true" url="http://zmv.000webhostapp.com/mehfil.m3u8">
+        <media:description>Radio Teentaal</media:description>
+        <media:keywords>radio</media:keywords>
+        <media:thumbnail url="https://1.bp.blogspot.com/-iPfmb3AcIhk/WSb43tYMEEI/AAAAAAAAKn4/7av0jBk6meMPhosJQimYn2EaLNvYus76ACLcB/s1600/Radio.jpg" />
+        <media:title>Radio Teentaal</media:title>
+      </media:content>
+    </item> 
+	
+	    <item>
+      <title>25th Wedding Anniversary Shahrukh Khan and Gauri Khans Rare Old Pictures</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>NDTV India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">BollywoodNews18718</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8">
+        <media:description> King of Romance, Shah Rukh Khan and the Queen of his life Gauri Khan celebrate their Silver Jubilee today. On their 25th wedding anniversary, we relive their adorable moments through few old pictures.</media:description>
+        <media:keywords>Bollywood</media:keywords>
+        <media:thumbnail url="https://2.bp.blogspot.com/-4qwpVao79Rg/WSrSeSHznuI/AAAAAAAAKog/XgCl_dShVbIgzVt0IPObwtMvKE2c3PvMQCLcB/s1600/D10_6.jpg" />
+        <media:title>25th Wedding Anniversary Shahrukh Khan and Gauri Khans Rare Old Pictures</media:title>
+      </media:content>
+    </item>
+	
+		    <item>
+      <title>Etv Gujarati</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>NDTV India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda16194r4</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://etvgujnewslive-lh.akamaihd.net/i/etv_gujrathi_news_1@370955/index_3_av-b.m3u8">
+        <media:description>Etv Gujarat Entertainment Channel</media:description>
+        <media:keywords>nregionalnews</media:keywords>
+        <media:thumbnail url="https://4.bp.blogspot.com/-9RWGPx0VhRM/WS32FR5g0fI/AAAAAAAAKow/kwZsHokz1UonYJwOpcmpWQ5rA4QjaIo6gCLcB/s1600/egujju.jpg" />
+        <media:title>Etv Gujarati</media:title>
+      </media:content>
+    </item> 
+  		    <item>
+      <title>IBN Marathi</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>NDTV India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619m3</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8">
+        <media:description>IBN Marathi News Channel</media:description>
+        <media:keywords>nregionalnews</media:keywords>
+        <media:thumbnail url="https://3.bp.blogspot.com/-dPU0CSJVaQQ/WS33nPjgeeI/AAAAAAAAKo8/LNWWgr-2_xYPJFGKUihguFTuaYnWU9pkgCLcB/s1600/marathi.jpg" />
+        <media:title>IBN Marathi</media:title>
+      </media:content>
+    </item> 
+  
+			    <item>
+      <title>A One Punjabi</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>A One Punjabi TV Live</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3dpunjabi1</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://live.wmncdn.net/abr/abd57a473ecc296867b63afdb92e9f8f.m3u8">
+        <media:description>A One Punjabi TV Live</media:description>
+        <media:keywords>punjabi</media:keywords>
+        <media:thumbnail url="https://2.bp.blogspot.com/-h-iG_USL5o8/WTCK2b4xtbI/AAAAAAAAKpQ/sLOQgXtFLaoNblUIp1aKItcwEAQZAeEGwCLcB/s1600/aonepunjabilogo.jpg" />
+        <media:title>A One Punjabi</media:title>
+      </media:content>
+    </item>
+  
+  	    <item>
+      <title>9xm Music</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5686748268874a57a4ba3debda1619dd/75ad4598ef4a4e5c950e26d80464abb4/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>9XM Music Channel India’s preferred bollywood music destination! Get your daily dose of Bollywood Entertainment with latest hindi songs, latest bollywood news, hindi movie trailers, bollywood gossip, Live Online TV, music videos and much more. Your fix of addictive bollywood music  humor with animated characters like Bade-Chote, Bheegi Billi Betel Nut</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619m1</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="hls" width="1280" isDefault="true" url="https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/9XM/9XM_800.m3u8">
+        <media:description>9XM Music Channel India’s preferred bollywood music destination! Get your daily dose of Bollywood Entertainment with latest hindi songs, latest bollywood news, hindi movie trailers, bollywood gossip, Live Online TV, music videos and much more. Your fix of addictive bollywood music humor with animated characters like Bade-Chote, Bheegi Billi Betel Nut</media:description>
+        <media:keywords>hindi, music</media:keywords>
+        <media:thumbnail url="https://d4z6dx8qrln4r.cloudfront.net/image-545afd6bc4389-default.jpeg" />
+        <media:title>9xm Music</media:title>
+      </media:content>
+    </item> 
+
+	
+	<item>
+      <title>Desi Channel</title>
+      <link>http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5686748268874a57a4ba3debda1619dd/75ad4598ef4a4e5c950e26d80464abb4/ep-126-seg-3_contv_v1-mo.mp4</link>
+      <description>9XM Music Channel India’s preferred bollywood music destination! Get your daily dose of Bollywood Entertainment with latest hindi songs, latest bollywood news, hindi movie trailers, bollywood gossip, Live Online TV, music videos and much more. Your fix of addictive bollywood music  humor with animated characters like Bade-Chote, Bheegi Billi Betel Nut</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619m2</guid>
+      <media:content channels="2" bitrate="1328.0" duration="63" fileSize="10344255" framerate="23.976" height="720" type="hls" width="1280" isDefault="true" url="http://live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/playlist.m3u8">
+        <media:description>9XM Music Channel India’s preferred bollywood music destination! Get your daily dose of Bollywood Entertainment with latest hindi songs, latest bollywood news, hindi movie trailers, bollywood gossip, Live Online TV, music videos and much more. Your fix of addictive bollywood music humor with animated characters like Bade-Chote, Bheegi Billi Betel Nut</media:description>
+        <media:keywords>hindi, music</media:keywords>
+        <media:thumbnail url="https://1.bp.blogspot.com/-efzMAs_vyAM/WT14zMDg1tI/AAAAAAAAKpg/I0QGv2eXFTwUPGG0GmBNDPthXscXmQUwwCLcB/s1600/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" />
+        <media:title>Desi Music</media:title>
+      </media:content>
+    </item> 
+  
+  			    <item>
+      <title>Khahani 2</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>Khahani 2</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3dmovies2</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://movieshls001-a.erosnow.com/hls/movie/5/1056815/fulllength/6803601/1248/1056815_6803601_640_360_48_1200_.m3u8">
+        <media:description>Khahani 2 - New Movie Will Be Released Every Two Weeks</media:description>
+        <media:keywords>movies2k</media:keywords>
+        <media:thumbnail url="http://onlinefullwatch.co/wp-content/uploads/2016/07/Kahaani-2-2016-Hindi-Online-HD-Movie.jpg" />
+        <media:title>Khahani 2</media:title>
+      </media:content>
+    </item>  
+
+			    <item>
+      <title>Filmy</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>Filmy</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3dmovies3</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Filmy/Filmy.m3u8">
+        <media:description>Filmy</media:description>
+        <media:keywords>music</media:keywords>
+        <media:thumbnail url="https://3.bp.blogspot.com/-6HE2y8tbhLo/WUZk_4wcf-I/AAAAAAAAKqE/rk9PY8cHSyIHIuy0-hDUqw0Ra8UbodbrgCLcBGAs/s1600/filmy.jpg" />
+        <media:title>Filmy</media:title>
+      </media:content>
+    </item>
+
+<item>
+      <title>DD India</title>
+      <link>http://hdcdn-f.akamaihd.net/i/vault/videoclips/movies/ss/25thWeddingAnniversaryShahrukhKhanandGauriKhansRareOldPictures.smil/master.m3u8</link>
+      <description>DD India</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3dmovies4</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_India/DD_India.m3u8">
+        <media:description>DD India</media:description>
+        <media:keywords>music</media:keywords>
+        <media:thumbnail url="https://4.bp.blogspot.com/-FPCfZHKwvX4/WUaZ9Crx3FI/AAAAAAAAKqU/ShxNtK4bu7owt69mi2rj4wRq-GygIrHOACLcBGAs/s1600/ddindia.jpg" />
+        <media:title>DD India</media:title>
+      </media:content>
+    </item>
+
+	<item>
+      <title>Aaj Tak</title>
+      <link>https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aaj_Tak/Aaj_Tak_800.m3u8</link>
+      <description>aajtak India: Hindi News, Today's Latest News in Hindi, News.</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fz</guid>
+      <media:content channels="1" bitrate="2328.0" duration="1" framerate="99.976" height="720" type="hls" width="1480" isDefault="true" url="https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Aaj_Tak/Aaj_Tak_800.m3u8">
+        <media:description>aajtak India: Hindi News, Today's Latest News in Hindi, News.</media:description>
+        <media:keywords>hindinews</media:keywords>
+        <media:thumbnail url="https://4.bp.blogspot.com/-FPCfZHKwvX4/WUaZ9Crx3FI/AAAAAAAAKqU/ShxNtK4bu7owt69mi2rj4wRq-GygIrHOACLcBGAs/s1600/ddindia.jpg" />
+        <media:title>Live News</media:title>
+      </media:content>
+       </item>
+	   
+
+  </channel>
+</rss>
