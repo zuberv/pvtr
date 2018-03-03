@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Roku-Developer-Sample-Feed</title>
-    <link/>
-    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
-    <language>en-us</language>
-    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
-    <category>TV Film</category>
-    <image>
-      <title>Roku-Developer-Sample-Feed</title>
-      <url>http://www.freepressjournal.in/wp-content/uploads/2016/11/NDTV-1.png</url>
-      <width>-1</width>
-      <height>-1</height>
-    </image>
     <item>
       <title>NDTV News</title>
       <link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8</link>
